@@ -1,0 +1,6 @@
+[submodule "httpr"]
+	path = httpr
+	url = https://github.com/elnormous/HTTPRequest.git
+[submodule "sh"]
+	path = sh
+	url = https://github.com/jadedrakerider/kwikgit
